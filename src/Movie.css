@@ -26,7 +26,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: ;
   }
   
   .movies {
@@ -71,9 +70,8 @@
   
   .movie .movie__title {
     margin-bottom: 5px;
-    font-size: 22px;
+    font-size: 24px;
     color: #2c2c2c;
-    
   }
   
   .movie .movie__genres {

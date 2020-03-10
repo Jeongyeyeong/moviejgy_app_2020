@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moviejgy_app_2020/static/css/main.c3b3b69d.chunk.css",
+    "main.js": "/moviejgy_app_2020/static/js/main.79a35e81.chunk.js",
+    "main.js.map": "/moviejgy_app_2020/static/js/main.79a35e81.chunk.js.map",
+    "runtime-main.js": "/moviejgy_app_2020/static/js/runtime-main.8c094ec7.js",
+    "runtime-main.js.map": "/moviejgy_app_2020/static/js/runtime-main.8c094ec7.js.map",
+    "static/js/2.688fded6.chunk.js": "/moviejgy_app_2020/static/js/2.688fded6.chunk.js",
+    "static/js/2.688fded6.chunk.js.map": "/moviejgy_app_2020/static/js/2.688fded6.chunk.js.map",
+    "index.html": "/moviejgy_app_2020/index.html",
+    "precache-manifest.e1a428898bc09dcf4f43fb60c4620ad2.js": "/moviejgy_app_2020/precache-manifest.e1a428898bc09dcf4f43fb60c4620ad2.js",
+    "service-worker.js": "/moviejgy_app_2020/service-worker.js",
+    "static/css/main.c3b3b69d.chunk.css.map": "/moviejgy_app_2020/static/css/main.c3b3b69d.chunk.css.map",
+    "static/js/2.688fded6.chunk.js.LICENSE.txt": "/moviejgy_app_2020/static/js/2.688fded6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c094ec7.js",
+    "static/js/2.688fded6.chunk.js",
+    "static/css/main.c3b3b69d.chunk.css",
+    "static/js/main.79a35e81.chunk.js"
+  ]
+}
